@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Toyota",
+    "image": "https://i.ibb.co/s6dZk1G/Toyota-logo-unsplash.jpg"
+  },
+  {
+    "name": "Ford",
+    "image": "https://i.ibb.co/vxyLQGK/Ford-logo-unsplash.jpg"
+  },
+  {
+    "name": "BMW",
+    "image": "https://i.ibb.co/3YpcVd4/BMW-logo-GM-unsplash.jpg"
+  },
+  {
+    "name": "Mercedes-Benz",
+    "image": "https://i.ibb.co/Cbys2Hh/doruk-bayram-gs3duh5iqkw-unsplash.jpg"
+  },
+  {
+    "name": "Audi",
+    "image": "https://i.ibb.co/vxCsgNw/Audi-logo-unsplash.jpg"
+  },
+  {
+    "name": "Honda",
+    "image": "https://static.tcimg.net/vehicles/logo/605x384_full_color/00fea4dbe4426fc2/Honda.png"
+  }
+]
